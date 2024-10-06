@@ -1,0 +1,230 @@
+2024-09-26 21:36:56,815 ERROR [Log] loginSuccessTest() FAILED with cause: Could not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 123
+Current browser version is 129.0.6668.60 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe 
+Host info: host: 'DESKTOP-NQIVL77', ip: '192.168.1.23'
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [--incognito], binary: C:\Program Files\Google\Chr..., extensions: []}}]}] 
+2024-09-26 21:40:52,191 ERROR [Log] loginSuccessTest() FAILED with cause: Could not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 123
+Current browser version is 129.0.6668.60 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe 
+Host info: host: 'DESKTOP-NQIVL77', ip: '192.168.1.23'
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [--incognito], binary: C:\Program Files\Google\Chr..., extensions: []}}]}] 
+2024-09-26 21:41:39,356 ERROR [Log] loginSuccessTest() FAILED with cause: Could not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 123
+Current browser version is 129.0.6668.60 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe 
+Host info: host: 'DESKTOP-NQIVL77', ip: '192.168.1.23'
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [], binary: C:\Program Files\Google\Chr..., extensions: []}}]}] 
+2024-09-26 21:42:15,728 ERROR [Log] loginSuccessTest() FAILED with cause: Could not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 123
+Current browser version is 129.0.6668.60 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe 
+Host info: host: 'DESKTOP-NQIVL77', ip: '192.168.1.23'
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [], binary: C:\Program Files\Google\Chr..., extensions: []}}]}] 
+2024-09-26 22:17:51,461 ERROR [Log] AcceptCookiesTest() FAILED with cause: Could not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 123
+Current browser version is 129.0.6668.60 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe 
+Host info: host: 'DESKTOP-NQIVL77', ip: '192.168.1.23'
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [--incognito], binary: C:\Program Files\Google\Chr..., extensions: []}}]}] 
+2024-09-26 22:27:16,196 ERROR [Log] User is on the Insider Page and accepts cookie. Kullanıcı Insider sayfasındadır ve çerezleri kabul eder. FAILED with cause: Could not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 123
+Current browser version is 129.0.6668.60 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe 
+Host info: host: 'DESKTOP-NQIVL77', ip: '192.168.1.23'
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [--incognito], binary: C:\Program Files\Google\Chr..., extensions: []}}]}] 
+2024-09-26 22:30:08,879 ERROR [Log] User is on the Insider Page and accepts cookie. Kullanıcı Insider sayfasındadır ve çerezleri kabul eder. FAILED with cause: Could not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 123
+Current browser version is 129.0.6668.60 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe 
+Host info: host: 'DESKTOP-NQIVL77', ip: '192.168.1.23'
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [--incognito], binary: C:\Program Files\Google\Chr..., extensions: []}}]}] 
+2024-09-26 22:39:17,011 ERROR [Log] User is on the Insider Page and accepts cookie. Kullanıcı Insider sayfasındadır ve çerezleri kabul eder. FAILED with cause: Could not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 123
+Current browser version is 129.0.6668.60 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe 
+Host info: host: 'DESKTOP-NQIVL77', ip: '192.168.1.23'
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [--incognito], binary: C:\Program Files\Google\Chr..., extensions: []}}]}] 
+2024-09-26 22:40:43,615 ERROR [Log] User is on the Insider Page and accepts cookie. Kullanıcı Insider sayfasındadır ve çerezleri kabul eder. FAILED with cause: Could not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 123
+Current browser version is 129.0.6668.60 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe 
+Host info: host: 'DESKTOP-NQIVL77', ip: '192.168.1.23'
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [--incognito], binary: C:\Program Files\Google\Chr..., extensions: []}}]}] 
+2024-09-26 23:00:59,839 ERROR [Log] User is on the Insider Page and accepts cookie. Kullanıcı Insider sayfasındadır ve çerezleri kabul eder. FAILED with cause: Could not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 123
+Current browser version is 129.0.6668.60 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe 
+Host info: host: 'DESKTOP-NQIVL77', ip: '192.168.1.23'
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [--incognito], binary: C:\Program Files\Google\Chr..., extensions: []}}]}] 
+2024-10-06 20:35:15,743 INFO  [Log] WebDriver kuruluyor... 
+2024-10-06 20:35:20,577 INFO  [Log] WebDriver başarıyla başlatıldı ve Insider sayfası açıldı. 
+2024-10-06 20:35:24,877 INFO  [Log] User is on the Insider Page and accepts cookie. Kullanıcı Insider sayfasındadır ve çerezleri kabul eder. PASSED 
+2024-10-06 20:35:24,887 INFO  [Log] WebDriver kapatılıyor... 
+2024-10-06 20:35:25,369 INFO  [Log] WebDriver başarıyla kapatıldı. 
+2024-10-06 20:37:33,229 INFO  [Log] WebDriver kuruluyor... 
+2024-10-06 20:37:36,858 INFO  [Log] WebDriver başarıyla başlatıldı ve Insider sayfası açıldı. 
+2024-10-06 20:37:40,614 INFO  [Log] User is on the Insider Page and accepts cookie. Kullanıcı Insider sayfasındadır ve çerezleri kabul eder. PASSED 
+2024-10-06 20:37:40,621 INFO  [Log] WebDriver kapatılıyor... 
+2024-10-06 20:37:40,943 INFO  [Log] WebDriver başarıyla kapatıldı. 
+2024-10-06 20:38:27,059 INFO  [Log] WebDriver kuruluyor... 
+2024-10-06 20:38:30,718 INFO  [Log] WebDriver başarıyla başlatıldı ve Insider sayfası açıldı. 
+2024-10-06 20:38:34,485 INFO  [Log] User is on the Insider Page and accepts cookie. Kullanıcı Insider sayfasındadır ve çerezleri kabul eder. PASSED 
+2024-10-06 20:38:34,490 INFO  [Log] WebDriver kapatılıyor... 
+2024-10-06 20:38:34,756 INFO  [Log] WebDriver başarıyla kapatıldı. 
+2024-10-06 20:39:08,591 INFO  [Log] WebDriver kuruluyor... 
+2024-10-06 20:39:12,071 INFO  [Log] WebDriver başarıyla başlatıldı ve Insider sayfası açıldı. 
+2024-10-06 20:39:15,824 INFO  [Log] User is on the Insider Page and accepts cookie. Kullanıcı Insider sayfasındadır ve çerezleri kabul eder. PASSED 
+2024-10-06 20:39:16,737 INFO  [Log] User clicks the Company button. Kullanıcı 'Company' butonuna tıklar. PASSED 
+2024-10-06 20:39:20,237 INFO  [Log] User clicks the Careers button. Kullanıcı 'Careers' butonuna tıklar. PASSED 
+2024-10-06 20:39:22,851 INFO  [Log] Clicking the Find Your Dream Job button. Find Your Dream Job butonuna tıklanıyor. PASSED 
+2024-10-06 20:39:33,612 ERROR [Log] User filters by location: Istanbul, Turkey. Kullanıcı 'Istanbul, Turkey' filtresini seçer. FAILED with cause: no such element: Unable to locate element: {"method":"xpath","selector":"//li[.='Istanbul, Turkey']"}
+  (Session info: chrome=129.0.6668.60)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2ad5ff98ae456aa0c226054927351532, findElement {value=//li[.='Istanbul, Turkey'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.60, chrome: {chromedriverVersion: 129.0.6668.89 (951c0b97221f..., userDataDir: C:\Users\ABRA\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60306}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60306/devtoo..., se:cdpVersion: 129.0.6668.60, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2ad5ff98ae456aa0c226054927351532 
+2024-10-06 20:39:43,788 ERROR [Log] User filters by department: Quality Assurance. Kullanıcı 'Quality Assurance' filtresini seçer. FAILED with cause: no such element: Unable to locate element: {"method":"xpath","selector":"//li[.='Quality Assurance']"}
+  (Session info: chrome=129.0.6668.60)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2ad5ff98ae456aa0c226054927351532, findElement {value=//li[.='Quality Assurance'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.60, chrome: {chromedriverVersion: 129.0.6668.89 (951c0b97221f..., userDataDir: C:\Users\ABRA\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60306}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60306/devtoo..., se:cdpVersion: 129.0.6668.60, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2ad5ff98ae456aa0c226054927351532 
+2024-10-06 20:39:44,260 INFO  [Log] User clicks the View Role button after filtering. Filtreleme işlemi sonrasında 'View Role' butonuna tıklanır. PASSED 
+2024-10-06 20:39:44,268 INFO  [Log] WebDriver kapatılıyor... 
+2024-10-06 20:39:44,536 INFO  [Log] WebDriver başarıyla kapatıldı. 
+2024-10-06 20:41:07,954 INFO  [Log] WebDriver kuruluyor... 
+2024-10-06 20:41:11,361 INFO  [Log] WebDriver başarıyla başlatıldı ve Insider sayfası açıldı. 
+2024-10-06 20:41:15,111 INFO  [Log] User is on the Insider Page and accepts cookie. Kullanıcı Insider sayfasındadır ve çerezleri kabul eder. PASSED 
+2024-10-06 20:41:16,055 INFO  [Log] User clicks the Company button. Kullanıcı 'Company' butonuna tıklar. PASSED 
+2024-10-06 20:41:20,444 INFO  [Log] User clicks the Careers button. Kullanıcı 'Careers' butonuna tıklar. PASSED 
+2024-10-06 20:41:23,202 INFO  [Log] Clicking the Find Your Dream Job button. Find Your Dream Job butonuna tıklanıyor. PASSED 
+2024-10-06 20:41:33,964 ERROR [Log] User filters by location: Istanbul, Turkey. Kullanıcı 'Istanbul, Turkey' filtresini seçer. FAILED with cause: no such element: Unable to locate element: {"method":"xpath","selector":"//li[.='Istanbul, Turkey']"}
+  (Session info: chrome=129.0.6668.60)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ebf58948b72115c69e0309a45e9ec830, findElement {using=xpath, value=//li[.='Istanbul, Turkey']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.60, chrome: {chromedriverVersion: 129.0.6668.89 (951c0b97221f..., userDataDir: C:\Users\ABRA\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60459}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60459/devtoo..., se:cdpVersion: 129.0.6668.60, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ebf58948b72115c69e0309a45e9ec830 
+2024-10-06 20:41:34,304 INFO  [Log] User filters by department: Quality Assurance. Kullanıcı 'Quality Assurance' filtresini seçer. PASSED 
+2024-10-06 20:41:34,704 INFO  [Log] User clicks the View Role button after filtering. Filtreleme işlemi sonrasında 'View Role' butonuna tıklanır. PASSED 
+2024-10-06 20:41:34,708 INFO  [Log] WebDriver kapatılıyor... 
+2024-10-06 20:41:34,954 INFO  [Log] WebDriver başarıyla kapatıldı. 
+2024-10-06 20:49:16,129 INFO  [Log] WebDriver kuruluyor... 
+2024-10-06 20:49:19,985 INFO  [Log] WebDriver başarıyla başlatıldı ve Insider sayfası açıldı. 
+2024-10-06 20:49:23,739 INFO  [Log] WebDriver kapatılıyor... 
+2024-10-06 20:49:23,972 INFO  [Log] WebDriver başarıyla kapatıldı. 
+2024-10-06 20:49:23,989 INFO  [Log] User is on the Insider Page and accepts cookie. Kullanıcı Insider sayfasındadır ve çerezleri kabul eder. PASSED 
+2024-10-06 20:49:25,400 INFO  [Log] WebDriver kapatılıyor... 
+2024-10-06 20:49:25,401 INFO  [Log] WebDriver başarıyla kapatıldı. 
+2024-10-06 20:49:25,401 INFO  [Log] User clicks the Company button. Kullanıcı 'Company' butonuna tıklar. PASSED 
+2024-10-06 20:49:28,033 INFO  [Log] WebDriver kapatılıyor... 
+2024-10-06 20:49:28,034 INFO  [Log] WebDriver başarıyla kapatıldı. 
+2024-10-06 20:49:28,034 INFO  [Log] User clicks the Careers button. Kullanıcı 'Careers' butonuna tıklar. PASSED 
+2024-10-06 20:49:30,712 INFO  [Log] WebDriver kapatılıyor... 
+2024-10-06 20:49:30,712 INFO  [Log] WebDriver başarıyla kapatıldı. 
+2024-10-06 20:49:30,712 INFO  [Log] Clicking the Find Your Dream Job button. Find Your Dream Job butonuna tıklanıyor. PASSED 
+2024-10-06 20:49:41,614 INFO  [Log] WebDriver kapatılıyor... 
+2024-10-06 20:49:41,614 INFO  [Log] WebDriver başarıyla kapatıldı. 
+2024-10-06 20:49:41,616 ERROR [Log] User filters by location: Istanbul, Turkey. Kullanıcı 'Istanbul, Turkey' filtresini seçer. FAILED with cause: no such element: Unable to locate element: {"method":"xpath","selector":"//li[.='Istanbul, Turkey']"}
+  (Session info: chrome=129.0.6668.60)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [616300cc473a907e2dd9e3e16449db09, findElement {using=xpath, value=//li[.='Istanbul, Turkey']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.60, chrome: {chromedriverVersion: 129.0.6668.89 (951c0b97221f..., userDataDir: C:\Users\ABRA\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60654}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60654/devtoo..., se:cdpVersion: 129.0.6668.60, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 616300cc473a907e2dd9e3e16449db09 
+2024-10-06 20:49:51,782 INFO  [Log] WebDriver kapatılıyor... 
+2024-10-06 20:49:51,782 INFO  [Log] WebDriver başarıyla kapatıldı. 
+2024-10-06 20:49:51,783 ERROR [Log] User filters by department: Quality Assurance. Kullanıcı 'Quality Assurance' filtresini seçer. FAILED with cause: no such element: Unable to locate element: {"method":"xpath","selector":"//li[.='Quality Assurance']"}
+  (Session info: chrome=129.0.6668.60)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [616300cc473a907e2dd9e3e16449db09, findElement {using=xpath, value=//li[.='Quality Assurance']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.60, chrome: {chromedriverVersion: 129.0.6668.89 (951c0b97221f..., userDataDir: C:\Users\ABRA\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60654}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60654/devtoo..., se:cdpVersion: 129.0.6668.60, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 616300cc473a907e2dd9e3e16449db09 
+2024-10-06 20:49:52,180 INFO  [Log] WebDriver kapatılıyor... 
+2024-10-06 20:49:52,180 INFO  [Log] WebDriver başarıyla kapatıldı. 
+2024-10-06 20:49:52,181 INFO  [Log] User clicks the View Role button after filtering. Filtreleme işlemi sonrasında 'View Role' butonuna tıklanır. PASSED 
+2024-10-06 20:50:05,404 INFO  [Log] WebDriver kuruluyor... 
+2024-10-06 20:50:09,045 INFO  [Log] WebDriver başarıyla başlatıldı ve Insider sayfası açıldı. 
+2024-10-06 20:50:12,746 INFO  [Log] WebDriver kapatılıyor... 
+2024-10-06 20:50:13,020 INFO  [Log] WebDriver başarıyla kapatıldı. 
+2024-10-06 20:50:13,029 INFO  [Log] User is on the Insider Page and accepts cookie. Kullanıcı Insider sayfasındadır ve çerezleri kabul eder. PASSED 
+2024-10-06 20:50:14,245 INFO  [Log] WebDriver kapatılıyor... 
+2024-10-06 20:50:14,245 INFO  [Log] WebDriver başarıyla kapatıldı. 
+2024-10-06 20:50:14,245 INFO  [Log] User clicks the Company button. Kullanıcı 'Company' butonuna tıklar. PASSED 
+2024-10-06 20:50:17,169 INFO  [Log] WebDriver kapatılıyor... 
+2024-10-06 20:50:17,169 INFO  [Log] WebDriver başarıyla kapatıldı. 
+2024-10-06 20:50:17,169 INFO  [Log] User clicks the Careers button. Kullanıcı 'Careers' butonuna tıklar. PASSED 
+2024-10-06 20:50:19,723 INFO  [Log] WebDriver kapatılıyor... 
+2024-10-06 20:50:19,723 INFO  [Log] WebDriver başarıyla kapatıldı. 
+2024-10-06 20:50:19,723 INFO  [Log] Clicking the Find Your Dream Job button. Find Your Dream Job butonuna tıklanıyor. PASSED 
+2024-10-06 20:50:30,466 INFO  [Log] WebDriver kapatılıyor... 
+2024-10-06 20:50:30,466 INFO  [Log] WebDriver başarıyla kapatıldı. 
+2024-10-06 20:50:30,467 ERROR [Log] User filters by location: Istanbul, Turkey. Kullanıcı 'Istanbul, Turkey' filtresini seçer. FAILED with cause: no such element: Unable to locate element: {"method":"xpath","selector":"//li[.='Istanbul, Turkey']"}
+  (Session info: chrome=129.0.6668.60)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.18.1', revision: 'b1d3319b48'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0b88f63da09d051f60f33a0c0bb30aef, findElement {using=xpath, value=//li[.='Istanbul, Turkey']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.60, chrome: {chromedriverVersion: 129.0.6668.89 (951c0b97221f..., userDataDir: C:\Users\ABRA\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60807}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60807/devtoo..., se:cdpVersion: 129.0.6668.60, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 0b88f63da09d051f60f33a0c0bb30aef 
+2024-10-06 20:50:30,795 INFO  [Log] WebDriver kapatılıyor... 
+2024-10-06 20:50:30,795 INFO  [Log] WebDriver başarıyla kapatıldı. 
+2024-10-06 20:50:30,795 INFO  [Log] User filters by department: Quality Assurance. Kullanıcı 'Quality Assurance' filtresini seçer. PASSED 
+2024-10-06 20:50:31,166 INFO  [Log] WebDriver kapatılıyor... 
+2024-10-06 20:50:31,166 INFO  [Log] WebDriver başarıyla kapatıldı. 
+2024-10-06 20:50:31,167 INFO  [Log] User clicks the View Role button after filtering. Filtreleme işlemi sonrasında 'View Role' butonuna tıklanır. PASSED 
+2024-10-06 20:52:26,368 INFO  [Log] WebDriver kuruluyor... 
+2024-10-06 20:52:31,083 INFO  [Log] WebDriver başarıyla başlatıldı ve Insider sayfası açıldı. 
+2024-10-06 20:52:34,241 INFO  [Log] WebDriver kapatılıyor... 
+2024-10-06 20:52:34,445 INFO  [Log] WebDriver başarıyla kapatıldı. 
+2024-10-06 20:52:34,451 INFO  [Log] User is on the Insider Page and accepts cookie. Kullanıcı Insider sayfasındadır ve çerezleri kabul eder. PASSED 
+2024-10-06 20:52:38,746 INFO  [Log] WebDriver başarıyla başlatıldı ve Insider sayfası açıldı. 
+2024-10-06 20:52:39,247 INFO  [Log] WebDriver kapatılıyor... 
+2024-10-06 20:52:39,642 INFO  [Log] WebDriver başarıyla kapatıldı. 
+2024-10-06 20:52:39,643 INFO  [Log] User clicks the Company button. Kullanıcı 'Company' butonuna tıklar. PASSED 
+2024-10-06 20:52:46,749 INFO  [Log] WebDriver başarıyla başlatıldı ve Insider sayfası açıldı. 
+2024-10-06 20:52:50,428 INFO  [Log] WebDriver kapatılıyor... 
+2024-10-06 20:52:50,680 INFO  [Log] WebDriver başarıyla kapatıldı. 
+2024-10-06 20:52:50,681 INFO  [Log] User clicks the Careers button. Kullanıcı 'Careers' butonuna tıklar. PASSED 
+2024-10-06 20:52:54,113 INFO  [Log] WebDriver başarıyla başlatıldı ve Insider sayfası açıldı. 
+2024-10-06 20:52:56,588 INFO  [Log] WebDriver kapatılıyor... 
+2024-10-06 20:52:56,784 INFO  [Log] WebDriver başarıyla kapatıldı. 
+2024-10-06 20:52:56,785 INFO  [Log] Clicking the Find Your Dream Job button. Find Your Dream Job butonuna tıklanıyor. PASSED 
+2024-10-06 20:53:00,404 INFO  [Log] WebDriver başarıyla başlatıldı ve Insider sayfası açıldı. 
+2024-10-06 20:53:00,869 INFO  [Log] WebDriver kapatılıyor... 
+2024-10-06 20:53:01,050 INFO  [Log] WebDriver başarıyla kapatıldı. 
+2024-10-06 20:53:01,050 INFO  [Log] User filters by location: Istanbul, Turkey. Kullanıcı 'Istanbul, Turkey' filtresini seçer. PASSED 
+2024-10-06 20:53:04,403 INFO  [Log] WebDriver başarıyla başlatıldı ve Insider sayfası açıldı. 
+2024-10-06 20:53:04,838 INFO  [Log] WebDriver kapatılıyor... 
+2024-10-06 20:53:05,089 INFO  [Log] WebDriver başarıyla kapatıldı. 
+2024-10-06 20:53:05,090 INFO  [Log] User filters by department: Quality Assurance. Kullanıcı 'Quality Assurance' filtresini seçer. PASSED 
+2024-10-06 20:53:08,427 INFO  [Log] WebDriver başarıyla başlatıldı ve Insider sayfası açıldı. 
+2024-10-06 20:53:08,824 INFO  [Log] WebDriver kapatılıyor... 
+2024-10-06 20:53:09,032 INFO  [Log] WebDriver başarıyla kapatıldı. 
+2024-10-06 20:53:09,032 INFO  [Log] User clicks the View Role button after filtering. Filtreleme işlemi sonrasında 'View Role' butonuna tıklanır. PASSED 
